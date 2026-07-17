@@ -66,8 +66,6 @@ El proyecto cuenta con una arquitectura dividida en dos capas altamente seguras:
 
 A continuación, el flujo real de la aplicación desde la perspectiva del usuario y del moderador:
 
-*(Reemplazar estos enlaces de ejemplo por tus propias capturas de pantalla subidas a la carpeta del repositorio)*
-
 1. **Usuario interactuando:** 
 ![Usuario pidiendo escribir en el mural](link_a_tu_imagen_1.jpg)
 
