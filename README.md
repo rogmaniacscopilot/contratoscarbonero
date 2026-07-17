@@ -8,7 +8,7 @@ El Mural Carbonero es una pizarra digital descentralizada en Ethereum (Testnet S
 ---
 
 ## 🎥 Pitch Video y Enlaces
-* **Demo Video (5 min):** [Pegar acá el link de YouTube]
+* **Demo Video (5 min)
 * **Contrato Inteligente (Sepolia):** [0xB4047FD588b8477491A571Bd2522DDE5BE10FD7f](https://sepolia.etherscan.io/address/0xB4047FD588b8477491A571Bd2522DDE5BE10FD7f)
 
 ---
